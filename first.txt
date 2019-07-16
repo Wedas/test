@@ -4,3 +4,5 @@ master
 test third
 master fourth
 test fourth
+after reset
+new from test
