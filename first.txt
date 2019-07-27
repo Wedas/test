@@ -8,3 +8,4 @@ after reset
 new from test
 master
 test
+test one more
