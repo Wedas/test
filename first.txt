@@ -7,3 +7,4 @@ test fourth
 after reset
 new from test
 master
+test
